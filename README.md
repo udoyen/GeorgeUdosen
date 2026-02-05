@@ -6,10 +6,23 @@
 ---
 
 ## 🛠 Technical Stack
-- **MSP Tools:** ConnectWise, Autotask, Nodeware, Sophos, BrightGauge
-- **Cloud:** AWS (S3/EC2), Azure Administrator, Google Cloud (GCP)
-- **Infrastructure:** Docker, Terraform, Kubernetes, Linux, Windows Server
-- **Security:** Google Cybersecurity, Endpoint Protection, IAM Policies
+### **Managed IT Services (MSP)**
+![ConnectWise](https://img.shields.io/badge/ConnectWise-24292e?style=for-the-badge&logo=connectwise&logoColor=00ADEF)
+![Sophos](https://img.shields.io/badge/Sophos-003391?style=for-the-badge&logo=sophos&logoColor=white)
+![Microsoft Office 365](https://img.shields.io/badge/Microsoft_365-2277e6?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+### **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### **Programming & Scripting**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
