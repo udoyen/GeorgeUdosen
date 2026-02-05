@@ -36,4 +36,4 @@
 ---
 
 ## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/georgeudosen/) | [Email](mailto:datameshprojects@gmail.com) | [View One-Page PDF Resume](YOUR_LINK)
+[LinkedIn](https://www.linkedin.com/in/georgeudosen/) | [Email](mailto:datameshprojects@gmail.com) | [View One-Page PDF Resume](https://raw.githubusercontent.com/udoyen/GeorgUdsoen/main/George_Udosen_Porfolio.pdf)
